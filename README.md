@@ -1,4 +1,4 @@
-<img src=""></a>
+<p align=center><img src="https://i.imgur.com/e6YBrVA.jpg"></a></p>
 
 **Further customized version of Crystal theme** <br>
 Original project: https://github.com/dm2912/Crystal and modification: https://github.com/farfenkugell/es-theme-farfenkugell_crystal
@@ -12,6 +12,3 @@ Main changes are:
 - Scrape images on the device, not computer, as it will make sure images are proper size and prevent pixelation on gamelist
   
 * See licence file for sources, credits and licence
-
-<img src=""></a>
-<img src=""></a>
