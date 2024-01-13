@@ -1,7 +1,7 @@
 <img src=""></a>
 
 **Further customized version of Crystal theme** <br>
-Original creators project: https://github.com/dm2912/Crystal and modification: https://github.com/farfenkugell/es-theme-farfenkugell_crystal
+Original project: https://github.com/dm2912/Crystal and modification: https://github.com/farfenkugell/es-theme-farfenkugell_crystal
 
 Main changes are: 
 
