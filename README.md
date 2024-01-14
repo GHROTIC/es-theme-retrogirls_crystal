@@ -13,7 +13,7 @@ Main changes are:
 - Made compatible with 4:3 resolution by replacing system images with alternate 640 x 480 versions based around prominent Female Characters. Systems that are WIP have the same placeholder art.
 - Stock widescreen images removed and replaced with farfenkugell's 720p revision as a fallback
 - Modified TheRA Logo added for Cpu Scripts/Advanced Options
-- There is no music added, thus you should disable it or at-least showing Song Title in Sound Settings
+- The Background Music is from TheRA OS, you can configure or disable this by pressing the Start Button in the Main Menu -> Sound Settings
 - Scrape images on the device, not computer, as it will make sure images are proper size and prevent pixelation on gamelist
 + See licence file for sources, credits and licence
 
