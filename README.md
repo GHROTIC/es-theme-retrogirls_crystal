@@ -1,4 +1,4 @@
-<p align=center><img src="https://i.imgur.com/e6YBrVA.jpg"></a></p>
+<p align=center><img src="https://i.imgur.com/OxDiSBk.jpg"></a></p>
 
 **<p align=center>RG ARC customized version of the Crystal Theme for TheRA</p>**
 Original project: https://github.com/dm2912/Crystal<br>
