@@ -3,7 +3,11 @@ Modified Theme of Crystal from dm2912
 
 Theme 'Crystal' by dm2912 (2020), forked from farfenkugell (2021)
 
-Modified TheRA Logo used under permission from TheTechToyTinker. Artwork obtained from Danbooru and used based upon their Terms of Service.
+Modified TheRA Logo used under permission from TheTechToyTinker. 
+
+Additional SVG Logos for Capcom, Konami, Midway, SNK & Arcade obtained from https://github.com/UDb23/rpie-custom/
+
+Artwork obtained from Danbooru and used based upon their Terms of Service.
 If you do not want your artwork used on this project please let me know on Discord(GHROTIC) and I will remove it.
 
 Acknowledgements:
