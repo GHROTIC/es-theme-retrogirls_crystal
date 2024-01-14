@@ -20,13 +20,12 @@ Main changes are:
 
 **01-13-2024:**
 
-*First Release.*
+*First Release. Still investigating Thememaster Support.*
 
 <br>
 
 ## <p align=center>--== Temporary Installation Instructions ==--</p>
 
-###### *Looking into Thememaster support.
 ###### *Instructions assume you are on a Windows Based PC that is unable to view partitions formatted in EXT4. In this example we will transfer the files via SSH with Filezilla. 
 
 *Step 1: Click on the green "Code" button near the top of the main page and select to "Download Zip". Once downloaded right click on the zip file in your Download Folder, select Extract All and then click on "Extract" when the new Window opens.*
