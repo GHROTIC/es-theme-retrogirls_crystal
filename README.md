@@ -38,7 +38,7 @@ Step 1: Click on the green "Code" button near the top of the main page and selec
 
 Step 2: Open Filezilla and connect to your RG ARC. On the left side go into the folder you extracted(i.e. es-theme-retrogirls_crystal-master). There should be another folder inside named es-theme-retrogirls_crystal-master. This will be the folder you want to transfer.
 
-<p align=center><img src="https://i.imgur.com/kFuMZbW.png"></a></p>
+<p align=center><img src="https://i.imgur.com/Q7xzYTJ.png"></a></p>
 
 Step 3: On the right side change the server directory to: /etc/emulationstation/themes and upload the es-theme-retrogirls_crystal-master folder and it's contents into this directory. Press the Start Button -> Quit -> Restart EmulationStation and you should now be able to see the theme as an option by pressing the Start Button in the Main Menu -> UI Settings -> Theme
 
