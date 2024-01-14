@@ -5,6 +5,12 @@ Original project: https://github.com/dm2912/Crystal<br>
 Based off of the RGB10 ArkOS fork: https://github.com/farfenkugell/es-theme-farfenkugell_crystal
 
 <br>
+<p>Demo Video:</p>
+
+ [<img src=https://img.youtube.com/vi/KzD_yMF4iSk/0.jpg width=40%>](https://www.youtube.com/watch?v=KzD_yMF4iSk)
+
+<br>
+
 
 ### <p align=center>--== ==--</p>
 
@@ -13,7 +19,6 @@ Main changes are:
 - Made compatible with 4:3 resolution by replacing system images with alternate 640 x 480 versions based around prominent Female Characters. Systems that are WIP have the same placeholder art.
 - Stock widescreen images removed and replaced with farfenkugell's 720p revision as a fallback
 - Modified TheRA Logo added for Cpu Scripts/Advanced Options
-- The Background Music is from TheRA OS, you can configure or disable this by pressing the Start Button in the Main Menu -> Sound Settings
 - Scrape images on the device, not computer, as it will make sure images are proper size and prevent pixelation on gamelist
 + See licence file for sources, credits and licence
 
@@ -39,4 +44,4 @@ Step 3: On the right side change the server directory to: /etc/emulationstation/
 
 <br>
 
-If you have any questions, comments or suggestions I can be found lurking in the RG Arc channel on the RetroHandhelds Discord: https://discord.com/invite/retrohandhelds
+If you have any questions, comments or suggestions I can be found in the #rg_arc channel on the RetroHandhelds Discord: https://discord.com/invite/retrohandhelds
