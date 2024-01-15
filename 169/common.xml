@@ -38,7 +38,7 @@
 	  
   <helpsystem name="help">
          <fontPath>./fonts/${font1s}</fontPath>
-         <fontSize>0.025</fontSize>     
+         <fontSize>0.024</fontSize>     
          <pos>0.007 0.965</pos>      
          <textColor>${chelptext}</textColor>
    </helpsystem>
