@@ -33,15 +33,19 @@ Main changes are:
 
 ## <p align=center>--== Temporary Installation Instructions ==--</p>
 ###### *Will investigate Thememaster Support for TheRA RC1.
-###### *Instructions assume you are on a Windows Based PC that is unable to view partitions formatted in EXT4. In this example we will transfer the files via SSH with Filezilla. 
+###### *Instructions assume you are on a Windows Based PC that is unable to view partitions formatted in EXT4. In this example we will transfer the files via SSH with [Filezilla](https://filezilla-project.org). 
 
-Step 1: Click on the green "Code" button near the top of the main page and select to "Download Zip". Once downloaded right click on the zip file in your Download Folder, select Extract All and then click on "Extract" when the new Window opens.
+Step 1: In Filezilla Select File -> Site Manager. When creating a New Site select the Protocol as SFTP and enter the IP address of your RG ARC. You can obtain this by pressing the Start Button in the Main Menu of your RG ARC(When connected to Wifi it will show at the bottom center of the screen).
 
-Step 2: Open Filezilla and connect to your RG ARC. On the left side go into the folder you extracted(i.e. es-theme-retrogirls_crystal-master). There should be another folder inside named es-theme-retrogirls_crystal-master. This will be the folder you want to transfer.
+##### Logon Type: Normal<br> Login: ark<br> Password: ark
+
+After pressing Connect you should now be able to access your RG ARC's file system remotely.
+
+Step 2: On the left side go into the folder you extracted(i.e. es-theme-retrogirls_crystal-master). There should be another folder inside named es-theme-retrogirls_crystal-master. This will be the folder you want to transfer.
 
 <p align=center><img src="https://i.imgur.com/Q7xzYTJ.png"></a></p>
 
-Step 3: On the right side change the server directory to: /etc/emulationstation/themes and upload the es-theme-retrogirls_crystal-master folder and it's contents into this directory. Press the Start Button -> Quit -> Restart EmulationStation and you should now be able to see the theme as an option by pressing the Start Button in the Main Menu -> UI Settings -> Theme
+Step 3: On the right side change the server directory to: /etc/emulationstation/themes and upload the es-theme-retrogirls_crystal-master folder and it's contents into this directory. You should now be able to see the theme as an option by pressing the Start Button in the Main Menu -> UI Settings -> Theme.
 
 <br>
 
