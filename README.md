@@ -25,9 +25,9 @@ Main changes are:
 
 ### <p align=center>--== ==--</p>
 
-**01-13-2024:**
+**01-17-2024:**
 
-*First Release. Most of the common systems are here, many still WIP such as specific Arcade Machines(CPSII, CPSIII).*
+*First Release. Most of the common systems are here, many still WIP.*
 
 <br>
 
