@@ -23,7 +23,7 @@
     <include subset="vdelay" name="0" displayName="${delay0}">./options/videodelay/video_delay_0.xml</include>
     <include subset="vdelay" name="nv" displayName="${novideo}">./options/videodelay/no_video.xml</include>
 
-    <include subset="colorset" name="Default" displayName="${default}">./options/colorschemes/blue.xml</include>
+    <include subset="colorset" name="Default" displayName="${default}">./options/colorschemes/black.xml</include>
 	<include subset="colorset" name="Ruby" displayName="${ctred}">./options/colorschemes/red.xml</include>
     <include subset="colorset" name="Carbon" displayName="${ctblack}">./options/colorschemes/black.xml</include>
     <include subset="colorset" name="Sapphire" displayName="${ctblue}">./options/colorschemes/blue.xml</include>
