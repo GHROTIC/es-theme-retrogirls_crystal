@@ -31,8 +31,8 @@ Main changes are:
 
 <br>
 
-## <p align=center>--== Temporary Installation Instructions ==--</p>
-###### *Will investigate Thememaster Support for TheRA RC1.
+## <p align=center>--== Manual Installation Instructions ==--</p>
+
 ###### *Instructions assume you are on a Windows Based PC that is unable to view partitions formatted in EXT4. In this example we will transfer the files via SSH with [Filezilla](https://filezilla-project.org). 
 
 Step 1: In Filezilla Select File -> Site Manager. When creating a New Site select the Protocol as SFTP and enter the IP address of your RG ARC. You can obtain this by pressing the Start Button in the Main Menu of your RG ARC(When connected to Wifi it will show at the bottom center of the screen).
