@@ -45,7 +45,7 @@ After pressing Connect you should now be able to access your RG ARC's file syste
 
 <p align=center><img src="https://i.imgur.com/Q7xzYTJ.png"></a></p>
 
-- Step 3: On the left side find the es-theme-retrogirls_crystal folder you extracted in your Windows Downloads directory(This will be the folder you want to transfer). On the right side change the server directory to: /etc/emulationstation/themes and upload the es-theme-retrogirls_crystal folder and it's contents into this directory. You should now be able to see the theme as an option on your RG ARC by pressing the Start Button in the Main Menu -> UI Settings -> Theme.
+- Step 3: On the left side find the es-theme-retrogirls_crystal folder you extracted in your Windows Downloads Directory(This will be the folder you want to transfer). On the right side change the server directory to: /etc/emulationstation/themes and upload the es-theme-retrogirls_crystal folder and it's contents into this directory. You should now be able to see the theme as an option on your RG ARC by pressing the Start Button in the Main Menu -> UI Settings -> Theme.
 
 <br>
 
