@@ -35,7 +35,7 @@ Main changes are:
 
 ###### *Instructions assume you are on a Windows Based PC that is unable to view partitions formatted in EXT4. In this example we will transfer the files via SSH with [Filezilla](https://filezilla-project.org). 
 
-Step 1: Download the latest version on the [releases](https://github.com/GHROTIC/es-theme-retrogirls_crystal/releases) page and extract the zip as a folder (i.e. es-theme-retrogirls_crystal).
+Step 1: Download the latest version on the [releases](https://github.com/GHROTIC/es-theme-retrogirls_crystal/releases) page and extract the zip as a folder (i.e. /es-theme-retrogirls_crystal).
 
 Step 2: In Filezilla Select File -> Site Manager. When creating a New Site select the Protocol as SFTP and enter the IP address of your RG ARC. You can obtain this by pressing the Start Button in the Main Menu of your RG ARC(When connected to Wifi it will show at the bottom center of the screen).
 
