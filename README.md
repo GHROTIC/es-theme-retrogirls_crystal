@@ -18,9 +18,9 @@ Main changes are:
 
 - Made compatible with 4:3 resolution by replacing system images with alternate 640 x 480 versions based around prominent Female Characters. Theme should also work on other 4:3 handhelds using EmulationStation(i.e. 353v/ArkOS).
 - Systems that are WIP have the same placeholder art.
-- Stock widescreen images removed and replaced with farfenkugell's 720p revision as a fallback
-- Modified TheRA Logo added for Cpu Scripts/Advanced Options
-- Scrape images on the device, not computer, as it will make sure images are proper size and prevent pixelation on gamelist
+- Stock widescreen images removed and replaced with farfenkugell's 720p revision as a fallback. 
+- Sega Themed TheRA Logo added for Cpu Scripts/Advanced Options
++ Scrape images on the device, not computer, as it will make sure images are proper size and prevent pixelation on gamelist
 + See licence file for sources, credits and licence
 
 ### <p align=center>--== ==--</p>
