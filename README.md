@@ -7,7 +7,7 @@ Based off of the RGB10 ArkOS fork: https://github.com/farfenkugell/es-theme-farf
 <br>
 <p>Demo Video:</p>
 
- [<img src=https://img.youtube.com/vi/KzD_yMF4iSk/0.jpg width=40%>](https://www.youtube.com/watch?v=KzD_yMF4iSk)
+ [<img src=https://img.youtube.com/vi/KzD_yMF4iSk/0.jpg width=40%>](https://www.youtube.com/watch?v=sd1je__NzhY)
 
 <br>
 
