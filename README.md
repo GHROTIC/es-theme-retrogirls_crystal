@@ -18,6 +18,7 @@ Main changes are:
 
 - Made compatible with 4:3 resolution by replacing system images with alternate 640 x 480 versions based around prominent Female Characters. Theme should also work on other 4:3 handhelds using EmulationStation(i.e. 353v/ArkOS).
 - Systems that are WIP have the same placeholder art.
+- Certain older Systems/Arcades have no Notable Female Characters and may have an image of a random character playing the System or Arcade.
 - Stock widescreen images removed and replaced with farfenkugell's 720p revision as a fallback. 
 - Sega Themed TheRA Logo added for Cpu Scripts/Advanced Options
 + Scrape images on the device, not computer, as it will make sure images are proper size and prevent pixelation on gamelist
@@ -25,9 +26,15 @@ Main changes are:
 
 ### <p align=center>--== ==--</p>
 
+**02-18-2024:**
+
+*v0.6: Revised version numbers. Added various missing Systems and Arcade Categories (30+).*
+
+<br>
+
 **01-25-2024:**
 
-*v0.1: First Release. Most of the common systems are here, many still WIP.*
+*v0.3: First Release. Most of the common systems are here, many still WIP.*
 
 <br>
 
